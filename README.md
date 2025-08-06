@@ -2,7 +2,7 @@
 
 **TradeCircle** is a peer-to-peer trading platform that empowers communities to exchange goods and services locally, fairly, and affordably. Designed specifically for low-income areas, TradeCircle enforces a $50 maximum trade limit and connects users only within a 10-mile radius — all while promoting economic education, gamification, and safe interactions.
 
-> 🔥 Built for real-world use and the [INSERT HACKATHON NAME] Hackathon challenge.
+> 🔥 Built for real-world use and the Hack the System:Hack the Economy Hackathon challenge.
 
 ---
 
