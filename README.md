@@ -62,6 +62,43 @@ Many communities face barriers to fair, local trade. TradeCircle solves this wit
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tradecircle.git
+   git clone https://github.com/kdsas/tradecircle.git
    cd tradecircle
 
+Install Tailwind (optional for dev build)
+
+bash
+Copy
+Edit
+npm install
+npx tailwindcss -i ./style.css -o ./dist/output.css --watch
+
+Setup Firebase
+
+Create a Firebase project at firebase.google.com
+
+Enable Firestore and Authentication (email/password)
+
+Paste your config into your JS files
+
+Run locally
+Just open index.html in your browser or use Live Server in VS Code.
+
+🌐 Live Demo
+🔗 https://kdsas.github.io/tradecircle
+
+
+🤝 Contributing
+Pull requests are welcome! If you have ideas for improving accessibility, gamification, or support for under-resourced communities, feel free to open an issue or PR.
+
+📄 License
+MIT License — free to use, adapt, and improve.
+
+🙌 Acknowledgments
+Built with Tailwind CSS
+
+Powered by Firebase
+
+Inspired by communities in need of fair and creative economic tools
+
+💡 TradeCircle isn't just a trading app — it's a movement for economic justice and empowerment.
