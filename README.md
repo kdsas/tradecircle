@@ -87,6 +87,17 @@ Just open index.html in your browser or use Live Server in VS Code.
 🌐 Live Demo
 🔗 https://kdsas.github.io/tradecircle
 
+## How to Run
+1. Open `create-listing.html` in your browser (with Firebase hosting or live server).
+2. Sign up/login using Firebase Auth.
+3. Post a listing (title, description, price ≤ $50, optional image).
+4. Listings appear instantly in the live feed.
+
+## Block Feature Test
+- Add a friend and chat.
+- Block them → they vanish from feed/friends/chat.
+- They cannot message or post to you anymore.
+
 
 🤝 Contributing
 Pull requests are welcome! If you have ideas for improving accessibility, gamification, or support for under-resourced communities, feel free to open an issue or PR.
